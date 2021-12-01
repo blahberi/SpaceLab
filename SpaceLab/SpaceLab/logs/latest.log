@@ -1,0 +1,86 @@
+[02:06:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:06:26] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[02:06:26] [Worker-Main-6/INFO]: Loaded 7 recipes
+[02:06:27] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[02:06:27] [Server thread/INFO]: Loading properties
+[02:06:27] [Server thread/INFO]: This server is running Tuinity version git-Tuinity-"4c31ea1" (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: 4c31ea1 on HEAD)
+[02:06:27] [Server thread/INFO]: Debug logging is disabled
+[02:06:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:06:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:06:27] [Server thread/INFO]: Default game type: SURVIVAL
+[02:06:27] [Server thread/INFO]: Generating keypair
+[02:06:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:06:27] [Server thread/INFO]: Using default channel type
+[02:06:27] [Server thread/INFO]: Tuinity: Using Java 11 compression from Velocity.
+[02:06:27] [Server thread/INFO]: Tuinity: Using Java cipher from Velocity.
+[02:06:28] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.2.5
+[02:06:28] [Server thread/INFO]: [CommandCore] Loading CommandCore v1.0-SNAPSHOT
+[02:06:28] [Server thread/INFO]: [SpaceLab] Loading SpaceLab v1.0-SNAPSHOT
+[02:06:28] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v1.17-407;fc4517f
+[02:06:29] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@296def43]
+[02:06:29] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.0.1
+[02:06:29] [Server thread/INFO]: [ViaVersion] ViaVersion 4.0.1 is now loaded, injecting!
+[02:06:29] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[02:06:29] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[02:06:29] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[02:06:29] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[02:06:29] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[02:06:29] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[02:06:29] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[02:06:29] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[02:06:29] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v2.0.1
+[02:06:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:06:29] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v1.17-407;fc4517f
+[02:06:29] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[02:06:29] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[02:06:29] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[02:06:29] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[02:06:29] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_17_R1_2.PaperweightFaweAdapter as the Bukkit adapter
+[02:06:30] [Server thread/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 3 build(s) out of date.
+You are running version FastAsyncWorldEdit-1.17-407, the latest version is FastAsyncWorldEdit-1.17-410.
+Update at https://www.spigotmc.org/resources/13932/
+[02:06:30] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v2.0.1
+[02:06:30] [Server thread/INFO]: Preparing level "world"
+[02:06:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:06:31] [Server thread/INFO]: Time elapsed: 204 ms
+[02:06:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:06:31] [Server thread/INFO]: Time elapsed: 100 ms
+[02:06:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:06:31] [Server thread/INFO]: Time elapsed: 117 ms
+[02:06:31] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.2.5
+[02:06:31] [Server thread/INFO]: [CommandCore] Enabling CommandCore v1.0-SNAPSHOT
+[02:06:31] [Server thread/INFO]: [SpaceLab] Enabling SpaceLab v1.0-SNAPSHOT
+[02:06:31] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.0.1
+[02:06:31] [Server thread/INFO]: Running delayed init tasks
+[02:06:31] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.17.1 (756)
+[02:06:31] [Server thread/WARN]: [ViaVersion] ViaVersion does not have any compatible versions for this server version!
+[02:06:31] [Server thread/WARN]: [ViaVersion] Please remember that ViaVersion only adds support for versions newer than the server version.
+[02:06:31] [Server thread/WARN]: [ViaVersion] If you need support for older versions you may need to use one or more ViaVersion addons too.
+[02:06:31] [Server thread/WARN]: [ViaVersion] In that case please read the ViaVersion resource page carefully or use https://jo0001.github.io/ViaSetup
+[02:06:31] [Server thread/WARN]: [ViaVersion] and if you're still unsure, feel free to join our Discord-Server for further assistance.
+[02:06:31] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[02:06:31] [Server thread/INFO]: Done (4.352s)! For help, type "help"
+[02:06:31] [Server thread/INFO]: Timings Reset
+[02:06:32] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 4.1.0, you're on: 4.0.1
+[02:06:56] [User Authenticator #1/INFO]: UUID of player blahberi is dd5a0d15-19c6-409b-8e77-c71972a3bb8f
+[02:06:56] [Server thread/INFO]: [+] blahberi
+[02:06:56] [Server thread/INFO]: blahberi[/127.0.0.1:56956] logged in with entity id 67 at ([world]-1464.5, 67.0, -2229.5)
+[02:07:32] [Server thread/INFO]: blahberi issued server command: /connect_all
+[02:07:32] [Server thread/INFO]: connected to rotator
+[02:07:32] [Server thread/INFO]: uconnected to arduino
+[02:07:55] [Server thread/INFO]: blahberi issued server command: /rotate 1
+[02:07:55] [Server thread/INFO]: successfully sent rotation activation message
+[02:08:05] [Server thread/INFO]: blahberi issued server command: /rotate 1
+[02:08:05] [Server thread/INFO]: successfully sent rotation activation message
+[02:08:09] [Server thread/INFO]: blahberi issued server command: /rotate -1
+[02:08:09] [Server thread/INFO]: successfully sent rotation activation message
+[02:08:13] [Server thread/INFO]: blahberi issued server command: /rotate 1
+[02:08:13] [Server thread/INFO]: successfully sent rotation activation message
+[02:08:15] [Server thread/INFO]: blahberi issued server command: /rotate -1
+[02:08:15] [Server thread/INFO]: successfully sent rotation activation message
+[02:08:23] [Server thread/INFO]: blahberi issued server command: /rotate 1
+[02:08:23] [Server thread/INFO]: successfully sent rotation activation message
+[02:08:25] [Server thread/INFO]: blahberi issued server command: /rotate -1
+[02:08:25] [Server thread/INFO]: successfully sent rotation activation message
+[02:08:37] [Server thread/INFO]: blahberi issued server command: /spacelab
+[02:08:37] [Server thread/INFO]: successfully sent motor activation message

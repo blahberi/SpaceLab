@@ -1,0 +1,10 @@
+messages:
+  join: '&8[&a+&8] &a%player%'
+  leave: '&8[&c-&8] &c%player%'
+spawn:
+  world: world
+  x: -1465
+  y: 67
+  z: -2230
+  pitch: 3
+  yaw: 0

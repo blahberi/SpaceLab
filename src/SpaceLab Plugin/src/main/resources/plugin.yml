@@ -1,0 +1,29 @@
+name: SpaceLab
+version: '${project.version}'
+main: me.blahberi.spacelab.SpaceLab
+api-version: 1.17
+authors: [ blahberi ]
+commands:
+  connect_rotator:
+    description: connnect to the rotator
+    usage: /<command>
+
+  connect_arduino:
+    description: connect to the arduino
+    usage: /<command>
+
+  connect_all:
+    description: connecto the the rotator and the arduino
+    usage: /<command>
+
+  spacelab:
+    description: activate motor
+    usage: /<command>
+
+  rotate:
+    description: rotate player
+    usage: /<command> <rotations>
+
+  update_config:
+    description: update the config
+    usage: /<command>

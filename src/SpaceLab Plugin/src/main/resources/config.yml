@@ -1,0 +1,5 @@
+arduino_ip: 127.0.0.1
+arduino_port: 1234
+
+rotator_ip: 127.0.0.1
+rotator_port: 12345

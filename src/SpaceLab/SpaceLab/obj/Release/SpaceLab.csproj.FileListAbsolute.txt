@@ -1,0 +1,7 @@
+C:\Users\eitan\source\repos\SpaceLab\SpaceLab\bin\Release\SpaceLab.exe.config
+C:\Users\eitan\source\repos\SpaceLab\SpaceLab\bin\Release\SpaceLab.exe
+C:\Users\eitan\source\repos\SpaceLab\SpaceLab\bin\Release\SpaceLab.pdb
+C:\Users\eitan\source\repos\SpaceLab\SpaceLab\obj\Release\SpaceLab.csproj.AssemblyReference.cache
+C:\Users\eitan\source\repos\SpaceLab\SpaceLab\obj\Release\SpaceLab.csproj.CoreCompileInputs.cache
+C:\Users\eitan\source\repos\SpaceLab\SpaceLab\obj\Release\SpaceLab.exe
+C:\Users\eitan\source\repos\SpaceLab\SpaceLab\obj\Release\SpaceLab.pdb

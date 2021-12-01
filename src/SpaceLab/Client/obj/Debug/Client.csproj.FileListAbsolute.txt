@@ -1,0 +1,7 @@
+C:\Users\eitan\source\repos\SpaceLab\Client\bin\Debug\Client.exe.config
+C:\Users\eitan\source\repos\SpaceLab\Client\bin\Debug\Client.exe
+C:\Users\eitan\source\repos\SpaceLab\Client\bin\Debug\Client.pdb
+C:\Users\eitan\source\repos\SpaceLab\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\eitan\source\repos\SpaceLab\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\eitan\source\repos\SpaceLab\Client\obj\Debug\Client.exe
+C:\Users\eitan\source\repos\SpaceLab\Client\obj\Debug\Client.pdb
